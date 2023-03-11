@@ -1,4 +1,6 @@
 // import java.util.ArrayList;
+import java.lang.reflect.Array;
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
 
@@ -95,4 +97,13 @@ public class Main {
             System.out.println(i);
         }
     }
+}
+
+public class EnglishLesson
+
+public static void main(string[] args) {
+    ArrayList<String> stringList = new ArrayList<>();
+    stringList.add("Shit");
+    stringList.add("Fuck");
+    stringList.add("Asshole");
 }
